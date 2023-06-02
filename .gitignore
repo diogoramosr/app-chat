@@ -53,3 +53,6 @@ yarn-error.log
 .expo/
 web-build/
 dist/
+
+# Config file
+/src/services/firebaseConnection.js
