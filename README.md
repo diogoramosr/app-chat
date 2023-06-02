@@ -27,6 +27,12 @@
 
 ## Contribuição
 
-Este projeto foi desenvolvido como parte de um curso e não está aberto para contribuições externas no momento.
+<p>Este projeto foi desenvolvido como parte de um curso e não está aberto para contribuições externas no momento.</p>
+
+<div align="center">
+   
+  ![screenApp](https://github.com/diogoramosr/app-chat/assets/100318805/cc5cd793-7192-4feb-80ff-b64c9466b399)
+  ![screen2App](https://github.com/diogoramosr/app-chat/assets/100318805/a92fac55-b5b9-475d-ac60-30b8f42714a7)
+</div>
 
 ---
